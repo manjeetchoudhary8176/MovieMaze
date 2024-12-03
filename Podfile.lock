@@ -1,0 +1,20 @@
+PODS:
+  - ActivityIndicatorView (1.1.1)
+  - Alamofire (5.8.1)
+
+DEPENDENCIES:
+  - ActivityIndicatorView
+  - Alamofire
+
+SPEC REPOS:
+  trunk:
+    - ActivityIndicatorView
+    - Alamofire
+
+SPEC CHECKSUMS:
+  ActivityIndicatorView: f14ac8e200a344fe992577807998b0c8562bd964
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+
+PODFILE CHECKSUM: a3f420a57d282c4a3261c167c3f1fad6b94780e5
+
+COCOAPODS: 1.15.2
